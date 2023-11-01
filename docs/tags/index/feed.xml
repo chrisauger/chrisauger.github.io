@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <generator uri="https://gohugo.io/" version="0.120.1">Hugo</generator>
     <title>Index on Geekblog</title>
-            <link href="https://chrisauger.github.io/tags/index/" rel="alternate" type="text/html" title="html" />
-            <link href="https://chrisauger.github.io/tags/index/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2023-10-31T23:39:25-04:00</updated>
-    <id>https://chrisauger.github.io/tags/index/</id>
+            <link href="https://chrisauger.ca/tags/index/" rel="alternate" type="text/html" title="html" />
+            <link href="https://chrisauger.ca/tags/index/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2023-11-01T07:55:50-04:00</updated>
+    <id>https://chrisauger.ca/tags/index/</id>
 </feed>

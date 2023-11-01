@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <generator uri="https://gohugo.io/" version="0.120.1">Hugo</generator>
     <title>Text on Geekblog</title>
-            <link href="https://chrisauger.github.io/tags/text/" rel="alternate" type="text/html" title="html" />
-            <link href="https://chrisauger.github.io/tags/text/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2023-10-31T23:39:25-04:00</updated>
-    <id>https://chrisauger.github.io/tags/text/</id>
+            <link href="https://chrisauger.ca/tags/text/" rel="alternate" type="text/html" title="html" />
+            <link href="https://chrisauger.ca/tags/text/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2023-11-01T07:55:50-04:00</updated>
+    <id>https://chrisauger.ca/tags/text/</id>
         <entry>
             <title>Placeholder Text</title>
-            <link href="https://chrisauger.github.io/post/placeholder-text/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>https://chrisauger.github.io/post/placeholder-text/</id>
+            <link href="https://chrisauger.ca/post/placeholder-text/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>https://chrisauger.ca/post/placeholder-text/</id>
             <published>2019-03-09T00:00:00+00:00</published>
             <updated>2019-03-09T00:00:00+00:00</updated>
             <content type="html">
@@ -34,7 +34,7 @@
     &gt;
         Vagus elidunt
     &lt;/h1&gt;
-    &lt;a data-clipboard-text=&#34;https://chrisauger.github.io/post/placeholder-text/#vagus-elidunt&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Vagus elidunt&#34; href=&#34;#vagus-elidunt&#34;&gt;
+    &lt;a data-clipboard-text=&#34;https://chrisauger.ca/post/placeholder-text/#vagus-elidunt&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Vagus elidunt&#34; href=&#34;#vagus-elidunt&#34;&gt;
         &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
     &lt;/a&gt;
 &lt;/div&gt;
@@ -48,7 +48,7 @@
     &gt;
         Mane refeci capiebant unda mulcebat
     &lt;/h2&gt;
-    &lt;a data-clipboard-text=&#34;https://chrisauger.github.io/post/placeholder-text/#mane-refeci-capiebant-unda-mulcebat&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Mane refeci capiebant unda mulcebat&#34; href=&#34;#mane-refeci-capiebant-unda-mulcebat&#34;&gt;
+    &lt;a data-clipboard-text=&#34;https://chrisauger.ca/post/placeholder-text/#mane-refeci-capiebant-unda-mulcebat&#34; class=&#34;gblog-post__anchor clip flex align-center&#34; aria-label=&#34;Anchor Mane refeci capiebant unda mulcebat&#34; href=&#34;#mane-refeci-capiebant-unda-mulcebat&#34;&gt;
         &lt;svg class=&#34;gblog-icon gblog_link&#34;&gt;&lt;use xlink:href=&#34;#gblog_link&#34;&gt;&lt;/use&gt;&lt;/svg&gt;
     &lt;/a&gt;
 &lt;/div&gt;
@@ -56,7 +56,7 @@
 &lt;p&gt;Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.&lt;/p&gt;
 &lt;p&gt;Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong&gt;mitis temploque&lt;/strong&gt; vocatus, inque alis, &lt;em&gt;oculos nomen&lt;/em&gt; non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong&gt;parte&lt;/strong&gt;.&lt;/p&gt;
             </content>   
-                                <category scheme="https://chrisauger.github.io/tags/markdown" term="markdown" label="markdown" /> 
-                                <category scheme="https://chrisauger.github.io/tags/text" term="text" label="text" />
+                                <category scheme="https://chrisauger.ca/tags/markdown" term="markdown" label="markdown" /> 
+                                <category scheme="https://chrisauger.ca/tags/text" term="text" label="text" />
         </entry>
 </feed>
