@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <generator uri="https://gohugo.io/" version="0.120.1">Hugo</generator>
     <title>Emoji on Geekblog</title>
-            <link href="https://chrisauger.github.io/tags/emoji/" rel="alternate" type="text/html" title="html" />
-            <link href="https://chrisauger.github.io/tags/emoji/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
-    <updated>2023-10-31T23:39:25-04:00</updated>
-    <id>https://chrisauger.github.io/tags/emoji/</id>
+            <link href="https://chrisauger.ca/tags/emoji/" rel="alternate" type="text/html" title="html" />
+            <link href="https://chrisauger.ca/tags/emoji/feed.xml" rel="self" type="application/atom+xml" title="Atom" />
+    <updated>2023-11-01T07:55:50-04:00</updated>
+    <id>https://chrisauger.ca/tags/emoji/</id>
         <entry>
             <title>Emoji Support</title>
-            <link href="https://chrisauger.github.io/post/emoji-support/" rel="alternate" type="text/html"  hreflang="en" />
-            <id>https://chrisauger.github.io/post/emoji-support/</id>
+            <link href="https://chrisauger.ca/post/emoji-support/" rel="alternate" type="text/html"  hreflang="en" />
+            <id>https://chrisauger.ca/post/emoji-support/</id>
             <published>2019-03-05T00:00:00+00:00</published>
             <updated>2019-03-05T00:00:00+00:00</updated>
             <content type="html">
@@ -37,6 +37,6 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
             </content>   
-                                <category scheme="https://chrisauger.github.io/tags/emoji" term="emoji" label="emoji" />
+                                <category scheme="https://chrisauger.ca/tags/emoji" term="emoji" label="emoji" />
         </entry>
 </feed>
