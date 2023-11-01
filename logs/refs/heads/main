@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 aabdc1e002c5072aac48186bb3d3a874316844bd Chris Auger <chris.auger@gmail.com> 1698726403 -0400	commit (initial): first commit
+aabdc1e002c5072aac48186bb3d3a874316844bd aabdc1e002c5072aac48186bb3d3a874316844bd Chris Auger <chris.auger@gmail.com> 1698726467 -0400	Branch: renamed refs/heads/main to refs/heads/main
+aabdc1e002c5072aac48186bb3d3a874316844bd 192bc4157797f5d4df4e4e1d07947a2fb48ae965 Chris Auger <chris.auger@gmail.com> 1698727277 -0400	commit: adding nojekyll root
+192bc4157797f5d4df4e4e1d07947a2fb48ae965 2a58de4e107902a80c9e477f1e54a8aba5a34288 Chris Auger <chris.auger@gmail.com> 1698808653 -0400	commit: structure change to public folder

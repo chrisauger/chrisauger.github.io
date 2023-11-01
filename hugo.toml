@@ -1,7 +1,8 @@
-baseURL = "http://localhost"
+baseURL = "https://chrisauger.github.io"
 languageCode = 'en-us'
 title = "Geekblog"
 theme = "hugo-geekblog"
+publishDir = "docs"
 
 pluralizeListTitles = false
 
